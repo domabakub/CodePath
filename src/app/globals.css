@@ -1,0 +1,13 @@
+:root {
+  color-scheme: light;
+  font-family: var(--font-inter), var(--font-thai), system-ui, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* { box-sizing: border-box; }
+html, body { min-height: 100%; margin: 0; }
+body { font-family: var(--font-inter), var(--font-thai), system-ui, sans-serif; }
+button, input, textarea, select { font: inherit; }
+button { cursor: pointer; }
